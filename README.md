@@ -8,10 +8,9 @@ I build robust, scalable data ecosystems. I thrive on solving complex architectu
 - 🔭 **Focus:** Tackling hardcore **Data Engineering** challenges—building resilient pipelines, optimizing distributed systems, and ensuring data quality at scale.
 - 🧠 **Passion:** Deeply invested in **Natural Language Processing (NLP)** and LLMs. I love making machines understand, process, and generate human language.
 - 💡 **Mindset:** Endlessly curious. Whether it's testing a new state-of-the-art model, exploring emerging data architectures, or optimizing cloud infrastructure, I'm always learning.
-- ⚡ **Fun fact:** I believe the best AI models are only as good as the data pipelines feeding them.
 
 ## 🌐 Socials & Portfolio
-- 💼 **LinkedIn:** [[linkedin.com/in/yourprofile](https://fr.linkedin.com/in/paul-le-dily-9a9134199)](https://linkedin.com/)
+- 💼 **LinkedIn:** [(https://fr.linkedin.com/in/paul-le-dily-9a9134199)]
 
 ---
 
@@ -33,11 +32,5 @@ I build robust, scalable data ecosystems. I thrive on solving complex architectu
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_ICI&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I am currently learning Rust
